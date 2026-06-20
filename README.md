@@ -1,10 +1,8 @@
+# xv6-riscv
+
+DLUTos git wrapper clone fixture.
 
 <!-- DLUTos test update -->
 Tested on DLUTos kernel riscv64
-
-<!-- DLUTos host push verification -->
-DLUTos commit time: 2026-06-20 19:30:53 CST
-DLUTos push test time: 2026-06-20 19:30:53 CST
-
-Repository: https://github.com/xzllll-ai/xv6-riscv-dlutos.git
-Branch: riscv
+DLUTos commit time: 2026-06-10 00:00:14 UTC
+DLUTos push test time: 2026-06-10 00:00:14 UTC
